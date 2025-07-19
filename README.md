@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Yash Shevde</h1>
-<h3 align="center">Passionate about tech, coding, and teamwork.</h3>
+<h3 align="center">Tech Enthusiast | Web Developer | Team Player 🚀</h3>
 
-- 🎓 I'm a student at **Shree L.R. Tiwari College of Engineering**  
-- 🌱 I'm currently learning **React, Tailwind CSS, and Backend Integration**
-- 🔭 I’m currently working on **SmartMirror and Photographer Portfolio Website**
-- 📫 How to reach me: shevdeyash9@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shevdeyash&label=Profile%20views&color=0e75b6&style=flat" alt="profile view counter" />
+</p>
+
+---
+
+- 🎓 Student at **Shree L.R. Tiwari College of Engineering**
+- 🔭 Currently building: **SmartMirror** & **Photographer Portfolio**
+- 📫 Reach me: [shevdeyash9@gmail.com](mailto:shevdeyash9@gmail.com)
+
+---
 
 ### 🧩 Connect with me
 
@@ -15,34 +22,32 @@
   <a href="https://www.instagram.com/_mryashshevde_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:shevdeyash9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </p>
 
+---
 
-### 🧰 Languages and Tools:
+### 🧰 Languages & Tools
 
 <p align="left"> 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/fluency/48/github.png"/>
-  <img src="https://img.icons8.com/color/48/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML" />
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS" />
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript" />
+  <img src="https://img.icons8.com/color/48/python--v1.png" title="Python" />
+  <img src="https://img.icons8.com/color/48/git.png" title="Git" />
+  <img src="https://img.icons8.com/fluency/48/github.png" title="GitHub" />
+  <img src="https://img.icons8.com/color/48/react-native.png" title="React" />
+  <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shevdeyash&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shevdeyash&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shevdeyash&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shevdeyash&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
-### 💬 Quote of the Day
-> "Let’s create and learn together for a brighter future 🚀"
+> “Let’s build, share, and grow together!” 🌟
