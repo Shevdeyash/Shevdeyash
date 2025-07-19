@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yash Shevde
+#                                                                                  Hi 👋, I'm Yash Shevde
 
 I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Telecommunication.
 
@@ -34,8 +34,6 @@ I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Te
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/>
   <img src="https://img.icons8.com/color/48/react-native.png" title="React"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-color-tal-revivo.png" title="Express"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
   <img src="https://img.icons8.com/ios-filled/50/github.png" title="GitHub"/>
 </p>
