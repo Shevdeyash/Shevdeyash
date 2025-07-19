@@ -4,7 +4,7 @@
 - 🎓 I'm a student at **Shree L.R. Tiwari College of Engineering**  
 - 🌱 I'm currently learning **React, Tailwind CSS, and Backend Integration**
 - 🔭 I’m currently working on **SmartMirror and Photographer Portfolio Website**
-- 📫 How to reach me: yashshevde08@gmail.com
+- 📫 How to reach me: shevdeyash9@gmail.com
 
 ### 🧩 Connect with me
 
@@ -15,7 +15,7 @@
   <a href="https://www.instagram.com/_mryashshevde_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:yashshevde08@gmail.com" target="_blank">
+  <a href="mailto:shevdeyash9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
