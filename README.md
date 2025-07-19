@@ -10,8 +10,8 @@
 
 ### 🧩 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/yashshevde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yashshevde_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/yashshevde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_mryashshevde_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 ---
