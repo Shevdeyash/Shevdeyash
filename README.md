@@ -25,7 +25,7 @@ I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Te
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" title="Arduino" />
   <img src="https://img.icons8.com/color/48/c-programming.png" title="C"/>
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/>
   <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
@@ -40,9 +40,3 @@ I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Te
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shevdeyash&layout=compact&theme=tokyonight" alt="Top Langs" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shevdeyash&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49.5%"/>
-</p>
