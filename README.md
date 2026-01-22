@@ -1,6 +1,6 @@
 #                                                                                  Hi 👋, I'm Yash Shevde
 
-I'm a Third Year Student Pursuing Bachelors of Engineering in Electronics and Telecommunication.
+I'm a Final Year Student Pursuing Bachelors of Engineering in Electronics and Telecommunication.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shevdeyash&label=Profile%20views&color=0e75b6&style=flat)
 
